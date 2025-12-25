@@ -9,5 +9,5 @@ namespace AzureOss\Storage\Common;
  */
 enum ApiVersion: string
 {
-    case LATEST = '2024-08-04';
+    case LATEST = '2020-10-02';
 }
